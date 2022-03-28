@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **iOS Apps!**
 
-- ☀️ This summer, I'll be interning at [Apple](https://www.apple.com/careers/us/students.html)!
+- ☀️🧑🏻‍💻 This summer, I'll be interning at [Apple](https://www.apple.com/careers/us/students.html)!
 
 - 💬 Ask me about **iOS, Swift, SwiftUI, Apple**
 
 - 📫 How to reach me: **gavin.ryder82@gmail.com**
 
-- ⚡ Fun fact **I have 4 pets!**
+- ⚡ Fun fact: **I have 4 pets!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
