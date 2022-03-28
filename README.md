@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Gavin!</h1>
-<h3 align="center">A CS student and passionate iOS Developer from California</h3>
+<h3 align="center">A CS student and passionate iOS Developer from The Bay Area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gryder8&label=Profile%20views&color=0e75b6&style=flat" alt="gryder8" /> </p>
 
