@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gryder8&label=Profile%20views&color=0e75b6&style=flat" alt="gryder8" /> </p>
 
 
-- 🔭 I’m currently working on [MLB The Show Flips](https://github.com/gryder8/MLB-The-Show-Flips-App)
+- 🔭 I’m currently working on [MLB The Show Flips](https://github.com/gryder8/MLB-The-Show-Flips-App) + a project for a client
 
 - 🌱 I’m currently learning **AWS, Combine, SwiftUI, Swift 5.5**
 
