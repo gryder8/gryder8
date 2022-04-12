@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [MLB The Show Flips](https://github.com/gryder8/MLB-The-Show-Flips-App) + a project for a client
 
-- 🌱 I’m currently learning **AWS, Combine, SwiftUI, Swift 5.5**
+- 🌱 I’m currently learning **Combine, SwiftUI, Swift 5.5, AWS**
 
 - 🔮 In the future, I'm hoping to learn **Kotlin** and maybe give **React** another try for building a website
 
