@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Combine, SwiftUI, Swift 5.5, AWS**
 
-- 🔮 In the future, I'm hoping to learn **Kotlin** and maybe give **React** another try for building a website
+- 🔮 In the future, I'm hoping to learn **Kotlin**!
 
 - 👯 I’m looking to collaborate on **iOS Apps!**
 
