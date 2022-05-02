@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [MLB The Show Flips](https://github.com/gryder8/MLB-The-Show-Flips-App) + a project for a client
 
-- 🌱 I’m currently learning **Combine, SwiftUI, Swift 5.5, AWS**
+- 🌱 I’m currently learning **Combine, MusicKit with Swift, SwiftUI, Swift 5.5, AWS**
 
 - 🔮 In the future, I'm hoping to learn **Kotlin**!
 
