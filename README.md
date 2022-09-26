@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gryder8&label=Profile%20views&color=0e75b6&style=flat" alt="gryder8" /> </p>
 
 
-- 🔭 I’m currently working on an app for a startup @ SCU + a project for a client
+- 🔭 I’m currently working with Swingbeats here at SCU
 
 - 🌱 I’m currently learning **Combine, MusicKit with Swift, SwiftUI, Swift 5.5, AWS**
 
