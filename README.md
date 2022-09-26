@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **iOS Apps!**
 
-- ☀️🧑🏻‍💻 This summer, I'm interning at [Apple](https://www.apple.com/careers/us/students.html)!
+- ☀️🧑🏻‍💻 This summer, I interned at [Apple](https://www.apple.com/careers/us/students.html)!
 
-- 💬 Ask me about **iOS, Swift, SwiftUI, Apple**
+- 💬 Ask me about **iOS, Swift, SwiftUI, interning @ Apple**
 
 - 📫 How to reach me: **gavin.ryder82@gmail.com**
 
