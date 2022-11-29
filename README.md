@@ -5,7 +5,7 @@
 
 - 💻 You can see my portfolio and resume by clicking [here](https://gryder8.github.io)!
 
-- 🔭 I’m currently working with Swingbeats here at SCU
+- 🔭 I’m currently working with Swingbeats, a startup and research project @ SCU
 
 - 🌱 I’m currently learning **Combine, MusicKit with Swift, SwiftUI, Swift 5.5**
 
