@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Gavin!</h1>
-<h3 align="center">I'm a CS + Engineering student at Santa Clara University and passionate iOS Developer from the Bay Area</h3>
+<h3 align="center">I'm a CS + Engineering student at Santa Clara University and an iOS Developer from the Bay Area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gryder8&label=Profile%20views&color=0e75b6&style=flat" alt="gryder8" /> </p>
 
