@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **iOS Apps!**
 
-- ☀️🧑🏻‍💻 This summer, I interned at [Apple](https://www.apple.com/careers/us/students.html)!
+- ☀️🧑🏻‍💻 This past summer, I interned at [Apple](https://www.apple.com/careers/us/students.html)! I'll be returning for Summer 2023.
 
 - 💬 Ask me about **iOS, Swift, SwiftUI, interning @ Apple**
 
