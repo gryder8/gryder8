@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gryder8&label=Profile%20views&color=0e75b6&style=flat" alt="gryder8" /> </p>
 
-- 💻 You can see my portfolio and resume by clicking [here](https://gryder8.github.io)!
+- 💻 You can see my portfolio and resume [here](https://gryder8.github.io)!
 
 - 🔭 I’m currently working with Swingbeats, a startup and research project @ SCU
 
