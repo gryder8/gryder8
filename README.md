@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with [Swingbeats](https://swingbeats.net/), a startup and research project @ SCU
 
-- 🌱 I’m currently learning **Combine, MusicKit with Swift, SwiftUI, Swift 5.5**
+- 🌱 I’m currently learning **Combine, MusicKit with Swift, SwiftUI, Swift 5+**
 
 - 🔮 In the future, I'm hoping to learn **Kotlin**!
 
