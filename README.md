@@ -5,7 +5,7 @@
 
 - 💻 You can see my portfolio and resume [here](https://gryder8.github.io)!
 
-- 🔭 I’m currently working with [Swingbeats](https://swingbeats.net/), a startup and research project @ SCU
+- 🔭 I’m currently working for [Quizlet](https://quizlet.com/)
 
 - 🌱 I’m currently learning **Combine, MusicKit with Swift, SwiftUI, Swift 5+**
 
@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **iOS Apps!**
 
-- ☀️🧑🏻‍💻 This past summer, I interned at [Apple](https://www.apple.com/careers/us/students.html)! I'll be returning for Summer 2023.
+- ☀️🧑🏻‍💻 For the past 2 summers, I interned at [Apple](https://www.apple.com/careers/us/students.html).
 
 - 💬 Ask me about **iOS, Swift, SwiftUI, interning @ Apple**
 
-- 📫 How to reach me: **gavin.ryder82@gmail.com**
+- 📫 How to reach me: **gavin.ryder.dev@icloud.com**
 
 - ⚡ Fun fact: **I have 4 pets!**
 
