@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working for [Quizlet](https://quizlet.com/)
 
-- 🌱 I’m currently learning **Combine, RXSwift, XCTest, SwiftUI, and UIKit+**
+- 🌱 I’m currently learning **Combine, RXSwift, XCTest, SwiftUI, and UIKit**
 
 - 🔮 In the future, I'm hoping to learn **Kotlin**!
 
