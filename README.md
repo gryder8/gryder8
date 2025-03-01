@@ -5,7 +5,7 @@
 
 - 💻 You can see my portfolio and resume [here](https://gryder8.github.io)!
 
-- 🔭 I’m currently working for [Quizlet](https://quizlet.com/)
+- 🔭 I’m currently working for Apple
 
 - 🌱 I’m currently learning **Combine, RXSwift, XCTest, SwiftUI, and UIKit**
 
