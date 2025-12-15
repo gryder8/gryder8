@@ -7,14 +7,6 @@
 
 - 🔭 I’m currently working for Apple
 
-- 🌱 I’m currently learning **Combine, RXSwift, XCTest, SwiftUI, and UIKit**
-
-- 🔮 In the future, I'm hoping to learn **Kotlin**!
-
-- 👯 I’m looking to collaborate on **iOS Apps!**
-
-- ☀️🧑🏻‍💻 For the past 2 summers, I interned at [Apple](https://www.apple.com/careers/us/students.html).
-
 - 💬 Ask me about **iOS, Swift, SwiftUI, interning @ Apple**
 
 - 📫 How to reach me: **gavin.ryder.dev@icloud.com**
