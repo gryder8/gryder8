@@ -5,13 +5,7 @@
 
 - 💻 You can see my portfolio and resume [here](https://gryder8.github.io)!
 
-- 🔭 I’m currently working for Apple
-
-- 💬 Ask me about **iOS, Swift, SwiftUI, interning @ Apple**
-
-- 📫 How to reach me: **gavin.ryder.dev@icloud.com**
-
-- ⚡ Fun fact: **I have 4 pets!**
+- 🔭 I’m currently working @ Apple
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
